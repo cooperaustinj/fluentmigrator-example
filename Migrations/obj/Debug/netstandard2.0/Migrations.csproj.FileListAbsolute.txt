@@ -1,0 +1,9 @@
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\bin\Debug\netstandard2.0\Migrations.deps.json
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\bin\Debug\netstandard2.0\Migrations.dll
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\bin\Debug\netstandard2.0\Migrations.pdb
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\obj\Debug\netstandard2.0\Migrations.csprojAssemblyReference.cache
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\obj\Debug\netstandard2.0\Migrations.csproj.CoreCompileInputs.cache
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\obj\Debug\netstandard2.0\Migrations.AssemblyInfoInputs.cache
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\obj\Debug\netstandard2.0\Migrations.AssemblyInfo.cs
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\obj\Debug\netstandard2.0\Migrations.dll
+C:\Users\Boobo\Documents\Projects\DotnetLocalDb\Migrations\obj\Debug\netstandard2.0\Migrations.pdb

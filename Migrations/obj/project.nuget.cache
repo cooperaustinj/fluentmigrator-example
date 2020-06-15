@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "rIeHvJjKgqLCHGktpnZEu55S0vGlQbz2Rq+PfAzPBX2z010hXLMzXrn3y82UvJ2bMLaynNzDDeQKURkgRjhnSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Boobo\\Documents\\Projects\\DotnetLocalDb\\Migrations\\Migrations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Boobo\\.nuget\\packages\\fluentmigrator\\3.2.7\\fluentmigrator.3.2.7.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\fluentmigrator.abstractions\\3.2.7\\fluentmigrator.abstractions.3.2.7.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\Boobo\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
